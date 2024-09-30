@@ -9,7 +9,7 @@
 <li>🧐 Learning about <strong>server architectures</strong>, <strong>custom framework</strong>, and a bit of <strong>NUI</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/thetechnopig">Github</a>.</li>
 <li>💬 Ping me about <strong>react, lua, security, and cannabis stuff</strong>.</li>
-<li>📙 Resume soon here - <a href="https://www.google.com">resume</a>.</li>
+<li>📙 Resume soon  - <a href="https://www.google.com">resume</a>.</li>
 <li>🎉 Fun Fact: Lua's lightweight design makes it suitable for crypto applications.。</li>
 </ul>
 <h2>🚀 Some Tools I Use</h2>
