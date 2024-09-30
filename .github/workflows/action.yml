@@ -12,7 +12,9 @@ jobs:
       - uses: actions/checkout@v3
         with:
           fetch-depth: 250   
-
+              - name: Change Report
+                uses: maxprilutskiy/change-report@v0
+            
       - uses: ./
         with:
           destination: discord
