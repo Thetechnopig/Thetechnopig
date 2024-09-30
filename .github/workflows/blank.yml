@@ -1,7 +1,4 @@
-              - name: Change Report
-                uses: maxprilutskiy/change-report@v0
-            
-            name: 'Run'
+name: 'Change Report'
 on:
   workflow_dispatch:
   schedule:
