@@ -13,7 +13,7 @@ jobs:
         with:
           fetch-depth: 250   
                
-                uses: maxprilutskiy/change-report@v0
+             -   uses: maxprilutskiy/change-report@v0
             with:
           destination: discord
           days: 7
