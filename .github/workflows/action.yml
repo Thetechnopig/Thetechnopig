@@ -14,22 +14,10 @@ jobs:
           fetch-depth: 250   
               - name: Change Report
                 uses: maxprilutskiy/change-report@v0
-            
-      - uses: ./
-        with:
+            with:
           destination: discord
           days: 7
-          channel: 1289201997681004557
-        env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
-          SLACK_SIGNING_SECRET: ${{ secrets.SLACK_SIGNING_SECRET }}
-
-      - uses: ./
-        with:
-          destination: discord
-          days: 7
-          channel: '1105810974189043762'
+          channel: '1289201997681004557'
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           DISCORD_BOT_TOKEN: ${{ secrets.DISCORD_BOT_TOKEN }}
